@@ -138,7 +138,7 @@ if (form) {
             };
 
             // Send email via EmailJS
-            emailjs.send('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', formData)
+            emailjs.send('service_opwq9z6', 'template_nme5eqr', formData)
                 .then(() => {
                     alert('Thank you for your request! We will contact you shortly.');
                     form.reset();
