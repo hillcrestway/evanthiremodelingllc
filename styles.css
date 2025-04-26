@@ -214,7 +214,7 @@ header {
 /* Hero Section */
 .hero {
   position: relative;
-  background: url('imgs/image0003.jpeg') center/cover no-repeat;
+  background: url('https://xeltrix.us/image0003.jpeg') center/cover no-repeat;
   color: white;
   padding: var(--space-3xl) 0;
   min-height: 80vh;
